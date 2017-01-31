@@ -1,0 +1,5 @@
+TL
+0  PlanetExpress SELL GE $120 #80
+0  WOW 			 BUY GE $100 #35
+1  WOW			 BUY GE  $90  #35
+2  WOW	 		 BUY  GE  $80  #35
